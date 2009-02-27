@@ -1,2 +1,25 @@
-This is a first readme for the RubyLearning.org Git class.
+h1. This is a first readme for the RubyLearning.org Git class.
 
+Welcome to My first fork on RubyLearning.org Git class. 
+
+h2. Now you need to pull it back.
+
+h2. What I have done?
+
+# git clone git@github.com:marcric/git-class-test-repository.git
+# cd git-class-test-repository
+# git checkout -b working
+# Change the README file into this.
+# git status
+# git commit -a -m "Changes into README"
+# git add .
+# git status
+# git checkout master
+# git merge working
+# git branch -d working
+# git branch and git status (just to check)
+# git push
+
+h2. Extra Information
+
+* "This work is totally under the WTF Public License: ":http://sam.zoy.org/wtfpl/
